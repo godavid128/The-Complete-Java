@@ -1,0 +1,12 @@
+// Class sunt puse in interiorul 'package'
+// Class-ele contin metode care au toate comportamentele definit
+// Class-ele sunt ca fundament => UN PLAN/ O SPECIFICARE/ UN CONCEPT
+// Noi folosim acest PLAN pentru a creea obiectele reale
+// Programarea orientata spre obiecte este un moyen d'organiser
+//      notre code plutot que d'avoir tout le code dans un seul fichier
+// OOP - il s'agit de mieux organiser votre code, d'ecrire une code plus propre
+
+// Interfaces - este un Contract. Toate class care implementeaza aceasta interfata tb sa implementeze
+//      metodele sale
+
+// class abstraites -
